@@ -42,6 +42,7 @@
                 </executions>
             </plugin>
         </plugins>
+        <finalName>utils-zookeeper</finalName>
     </build>
 
 </project>
